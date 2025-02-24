@@ -1,0 +1,73 @@
+[
+  {
+    "transactionId": "TEST123",
+    "verified": true,
+    "ffId": null,
+    "ffPass": null,
+    "ffAccount": {
+      "id": "FF123456",
+      "password": "password123"
+    }
+  },
+  {
+    "transactionId": "TEST123",
+    "verified": false,
+    "ffId": null,
+    "ffPass": null
+  },
+  {
+    "transactionId": "TEST123",
+    "verified": false,
+    "ffId": null,
+    "ffPass": null
+  },
+  {
+    "transactionId": "Gucig🤡😊😊",
+    "verified": true,
+    "ffAccount": {
+      "id": "FF789012",
+      "password": "password456"
+    }
+  },
+  {
+    "transactionId": "Gucig🤡😊😊",
+    "verified": false
+  },
+  {
+    "transactionId": "Gucig🤡😊😊",
+    "verified": false
+  },
+  {
+    "transactionId": "Gucig🤡😊😊",
+    "verified": false
+  },
+  {
+    "transactionId": "Gucig🤡😊😊",
+    "verified": false
+  },
+  {
+    "transactionId": "Gucig🤡😊😊",
+    "verified": false
+  },
+  {
+    "transactionId": "Hsjsjsjnajs",
+    "verified": true,
+    "ffAccount": {
+      "id": "uzumakiuchiha686@gmail.com",
+      "password": "1234inss"
+    }
+  },
+  {
+    "transactionId": "Xxx.com",
+    "verified": true,
+    "ffAccount": {
+      "id": "mohansuchil4@gmail.com",
+      "password": "1234inss"
+    }
+  },
+  {
+    "transactionId": "🖕🖕🖕🖕",
+    "verified": false,
+    "ffAccount": null
+  }
+]
